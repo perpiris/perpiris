@@ -43,8 +43,8 @@
   <text x="640" y="120" class="value">SQL Server · Docker</text>
 
   <text x="524" y="160" class="label">QUEST</text>
-  <text x="640" y="160" class="quest">kunigi-archive</text>
-  <text x="640" y="182" class="label">&gt; archive of a treasure hunt</text>
+  <text x="640" y="160" class="quest">[ CLASSIFIED ]</text>
+  <text x="640" y="182" class="label">&gt; training sorties in progress</text>
 
   <!-- footer -->
   <rect x="16" y="208" width="968" height="1" fill="#0f3d1c"/>
